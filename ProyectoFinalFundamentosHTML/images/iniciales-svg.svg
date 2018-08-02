@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>iniciales.svg</title>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_5" height="152" width="32" y="111" x="95" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#bfbfbf"/>
+  <rect stroke="#000000" transform="rotate(90.3720474243164 136.5047302246094,247.7695159912109) " id="svg_6" height="81.00799" width="32" y="207.265523" x="120.50474" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#bfbfbf"/>
+  <rect id="svg_9" height="152" width="32" y="110" x="178" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#bfbfbf"/>
+  <ellipse stroke="#000000" ry="49.500002" rx="77" id="svg_10" cy="153.499998" cx="255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#bfbfbf"/>
+  <ellipse ry="10" rx="27" id="svg_12" cy="148" cx="256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffffff"/>
+ </g>
+</svg>
